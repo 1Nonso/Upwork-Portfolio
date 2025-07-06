@@ -118,10 +118,10 @@ const About = () => {
           className="border-2 border-[#F5EE84] p-5 rounded-lg"
         >
           <p className="mb-5 text-xl">
-            Hi, I'm Othniel - a Front-end Web Developer passionate about
-            transforming creative ideas into exceptional web experiences. I
-            build responsive websites and applications that exceed expectations.
-            Ready to collaborate on your next project.
+            Hi, I'm Chukwuani Chinonso Othniel - a Front-end Web Developer
+            passionate about transforming creative ideas into exceptional web
+            experiences. I build responsive websites and applications that
+            exceed expectations. Ready to collaborate on your next project.
           </p>
           <p>
             Client-Focused Developer
