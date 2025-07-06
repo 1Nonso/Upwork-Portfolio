@@ -3,25 +3,19 @@ import NavBar from "./components/NavComponent/Nav";
 import Home from "./components/Home";
 import About from "./components/About";
 import Work from "./components/Work";
-import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-import Resume from "./components/Resume";
 
 function App() {
   return (
     <>
       <NavBar />
 
-      <section className="flex flex-col items-center justify-evenly w-dvw">
+      <section className="flex flex-col items-center justify-evenly w-dvw mb-20">
         <Home />
 
         <About />
 
         <Work />
-
-        <Resume />
-
-        <Contact />
       </section>
 
       <Footer />

@@ -78,11 +78,6 @@ const DropDownMenu = () => {
                 Work
               </Link>
             </li>
-            <li>
-              <Link to="#Contact" smooth>
-                Contact
-              </Link>
-            </li>
           </ul>
         </section>
       </BrowserRouter>

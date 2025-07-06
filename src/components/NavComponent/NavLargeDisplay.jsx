@@ -24,11 +24,6 @@ const NavBar = () => {
                   Work
                 </Link>
               </li>
-              <li>
-                <Link to="#Contact" smooth>
-                  Contact
-                </Link>
-              </li>
             </ul>
           </div>
         </nav>
